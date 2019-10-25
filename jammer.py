@@ -1,11 +1,5 @@
 #!/usr/bin/python
-###################################################################
-#
-#                      Python Wifi Jammer
-#                       @mohammadaskar2
-#                    http://www.isecur1ty.org
-#
-###################################################################
+
 from scapy.all import *
 from wifi import Cell
 import time
